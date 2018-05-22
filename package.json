@@ -20,7 +20,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/pointbiz/bitaddress.org.git"
+    "url": "git://github.com/TheHolyRoger/address.theholyroger.com.git"
   },
   "keywords": [
     "bitcoin address wallet generator"
@@ -30,6 +30,6 @@
   "readmeFilename": "README",
   "gitHead": "d77aaf687fca1f0e28388b0a8de5eb3d89d4fad3",
   "bugs": {
-    "url": "https://github.com/pointbiz/bitaddress.org/issues"
+    "url": "https://github.com/TheHolyRoger/address.theholyroger.com/issues"
   }
 }
