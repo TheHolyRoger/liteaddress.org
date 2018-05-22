@@ -7,7 +7,7 @@
 * http://www-cs-students.stanford.edu/~tjw/jsbn/LICENSE
 *
 * Copyright Stephan Thomas
-* Copyright bitaddress.org
+* Copyright address.theholyroger.com
 */
 
 (function () {
